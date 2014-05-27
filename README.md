@@ -1,6 +1,6 @@
 # IPScan
 
-IPScan scans your local area network to determine the identity of all machines on the LAN.
+Scans your local area network to determine the identity of all machines on the LAN.
 
 ## Installation
 
@@ -19,7 +19,7 @@ IPScan scans your local area network to determine the identity of all machines o
     check 192.168.1.0 ~ 192.168.1.254
     Progress: |==========================================================================================================================================|
     IP Address 	Mac Address     	Name         	NetBIOS Name
-    192.168.1.1 	xx:xx:xx:xx:xx:xx	xxx.me  	XXXXX
+    192.168.1.1 	xx:xx:xx:xx:xx:xx	abc.me  	ABC
     192.168.1.190 	<no entry>      	xxxxxx  	<unknown>
     192.168.1.232	xx:xx:xx:xx:xx:xx	xxxxxx  	XXXXX
 
